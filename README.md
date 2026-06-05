@@ -1,6 +1,14 @@
 # KritischeAnlegerDe_TermStructureDevelopment
 Term structure development from website kritische-anleger.de. Ananlysis; principal component analysis for level, slope, and curvature estimation; Forecast and forecast evaluation.
 
+## KATeStDe_04
+bar chart for the slope estimation
+Parameters for Factor estimation
+Maturities used for factor estimation
+Extraction for time window with size Tau
+X'X Matrix
+
+
 ## KATeStDe_03
 Calculate Level,Slope, and Curvature of the yield curve
 Time Span of the Dataset
